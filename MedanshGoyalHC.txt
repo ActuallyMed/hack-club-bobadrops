@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+<title>Portfolio</title>
+
+<h1>Hi there!</h1>
+<h2>My name is Medansh, and I hope you are fine.</h2>
+
+<h3>Age:12</h3>
+<hr>
+<h4>Qualifications:</h4>
+<p>1. Minecraft killed the enderdragon</p>
+<p>2. 1M gems in roblox rollercoaster tycoon</p>
+<p>3. Have knowledge of Python</p>
+<p>4. Installed .apk files</p>
+<hr>
+<p>And the most important achievement,</p>
+<h2>Made this html</h2>
+<hr>
+<p>Please make sure that I will</p>
+<h3>NOT</h3>
+<p>use any company laptop, or or that matter, have any blocking on my personal Macbook</p>
+
+</body>
+</html>
